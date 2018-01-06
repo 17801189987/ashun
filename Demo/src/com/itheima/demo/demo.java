@@ -1,7 +1,7 @@
-package com.itheima.demo;
+﻿package com.itheima.demo;
 
 public class demo {
 	public static void main(String[] args) {
-		System.out.println("玲玲是猪");
+		System.out.println("玲玲是猪1111");
 	}
 }
